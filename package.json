@@ -1,0 +1,14 @@
+{
+  "name": "docker-githubactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Pablo Ponce",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
